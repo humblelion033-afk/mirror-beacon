@@ -1,2 +1,2 @@
-SERVER:RsSNHOsju0ry2BNDC_j1-7CslbIWVDTGlVuja-pcqObErYF-t-zxYYMP:1777217192
+SERVER:bx54Bldio9A5q-2DtAO7M8JnYDMDwyuzhHZ8Mi97bSQ3ASwBW3kYNB3f:1777217398
 TUNNEL:https://pension-union-nav-tone.trycloudflare.com
