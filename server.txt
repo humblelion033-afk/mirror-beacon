@@ -1,2 +1,2 @@
-SERVER:6It4knLbcFsUHdt8g2QyfqdZEOD0E4ETPQmpLyuauif0Gckvo7o-6F8=:1777231764
-TUNNEL:https://screens-above-choose-chevy.trycloudflare.com
+SERVER:i7QesouzaYyipuMV9UZ1HMpxWVqT0SHM5zP-Wz2ZmwKVZKCOs7yvl3w=:1777231777
+TUNNEL:https://sagem-concept-sensors-locked.trycloudflare.com
