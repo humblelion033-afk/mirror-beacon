@@ -1,2 +1,2 @@
-SERVER:paQZPqEADi3fOt_Rbyf95PYallKUrROzG8u-_9eDenf7J2R-EPLfCUE=:1777220649
-TUNNEL:https://pension-union-nav-tone.trycloudflare.com
+SERVER:sOanhnRSz904o6z1hJ-oGEJGWaJ7fvOGMkXU23lEDBHbV35Ng3qW1B0=:1777220660
+TUNNEL:https://fabrics-agenda-patient-hull.trycloudflare.com
