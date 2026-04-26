@@ -1,2 +1,2 @@
-SERVER:SaOMDfq-ximtUPEHiwwRfj5Db-wKnFzNqEKQNnd2lF53zYkv-07rFOzn:1777231499
-TUNNEL:https://fabrics-agenda-patient-hull.trycloudflare.com
+SERVER:CIQjIvH4oQaBayPaMiQMeswG6C8PYhQAofrQZE54isLunKapTDSSkCZA:1777231512
+TUNNEL:https://screens-above-choose-chevy.trycloudflare.com
