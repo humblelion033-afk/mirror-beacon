@@ -1,2 +1,2 @@
-SERVER:sOanhnRSz904o6z1hJ-oGEJGWaJ7fvOGMkXU23lEDBHbV35Ng3qW1B0=:1777220660
+SERVER:9PfAYYhctBqZQwIG_Sx1weFbsGVQSL7-TwvBFbrzuwteP0WCGvHsmtw=:1777220950
 TUNNEL:https://fabrics-agenda-patient-hull.trycloudflare.com
