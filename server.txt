@@ -1,2 +1,2 @@
-SERVER:SHnqGcsOZooRHhDPWH_i85PwMmIowvfhApAypRf997lvQeXZ7IEX5GA=:1777232968
+SERVER:ivNT4R21B9-_qFMk0LDEC2V2Ig883IoxZhfMcmWJYcBTQogysR6bq1c=:1777237310
 TUNNEL:https://sagem-concept-sensors-locked.trycloudflare.com
