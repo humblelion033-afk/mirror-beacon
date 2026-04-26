@@ -1,2 +1,2 @@
-SERVER:CIQjIvH4oQaBayPaMiQMeswG6C8PYhQAofrQZE54isLunKapTDSSkCZA:1777231512
+SERVER:6It4knLbcFsUHdt8g2QyfqdZEOD0E4ETPQmpLyuauif0Gckvo7o-6F8=:1777231764
 TUNNEL:https://screens-above-choose-chevy.trycloudflare.com
