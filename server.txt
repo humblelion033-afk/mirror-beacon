@@ -1,2 +1,2 @@
-SERVER:SvVnl1pF9xTcShRwAn_LPdllMQsp38f27Wueuf6xz2Ndtp0Q-Bkn4rk=:1777238811
+SERVER:p9YWLcdr2dJpkV_OOvIS9pSdN4TKsR9QT3Y9wK7wZtHO-GJXRc0822E=:1777239111
 TUNNEL:https://exclusively-sydney-dip-cut.trycloudflare.com
