@@ -1,2 +1,1 @@
-SERVER:nVnkWASFebP2-ST95kjsSgA1KzBSy-uePFk7i3gEohdYlRU_djs_HSw=:1777470593
-TUNNEL:https://5dab6d76-00b3-44b4-9b88-56e706ba04b0.cfargotunnel.com
+SERVER:D2YoK2jXJH-3OyxpRaLbGuuAhag8I_rcE9cAdhrFgA_XrznbboH2UPI=:1777470785
