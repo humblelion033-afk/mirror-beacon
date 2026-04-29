@@ -1,2 +1,2 @@
-SERVER:11xGVsb94Lus33prO6NI0dM-7AqVpy9chCVBMoKE8r-vrGhDUGEogTQ=:1777240311
-TUNNEL:https://exclusively-sydney-dip-cut.trycloudflare.com
+SERVER:1zaf0Z1kkDCmppLlcsrwG36bADSB-Psh7E9Oc57w5_gzo7dBNr22neY=:1777449160
+TUNNEL:https://5dab6d76-00b3-44b4-9b88-56e706ba04b0.cfargotunnel.com
