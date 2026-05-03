@@ -1,2 +1,2 @@
-SERVER:4zfve9_x-LIP5-Vr6i7gsJw2WBkqv9YeGcyQvw80-Z343Yywu8VMAdY=:1777807378
+SERVER:sks8mAxPZmCOU5E5wghIPQDXu99vXDN0IYyCFn_uNx5ZF1eByg2_m3I=:1777807379
 TUNNEL:https://handy-decorative-heather-thru.trycloudflare.com
