@@ -1,2 +1,2 @@
-SERVER:NzY9SXDwMBO3HQ2IfFpW_9Elj0UYHqzEbISg5xeaMWCl6REikM-l9ME=:1777545591
-TUNNEL:https://5dab6d76-00b3-44b4-9b88-56e706ba04b0.cfargotunnel.com
+SERVER:4zfve9_x-LIP5-Vr6i7gsJw2WBkqv9YeGcyQvw80-Z343Yywu8VMAdY=:1777807378
+TUNNEL:https://handy-decorative-heather-thru.trycloudflare.com
