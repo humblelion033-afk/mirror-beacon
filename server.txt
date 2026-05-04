@@ -1,2 +1,2 @@
-SERVER:iu6VMiyuWlz6spiwR-Ou55k8ce6_Gr7HPRDbF3UiIQM3K-UvQZp6JQ==:1777922893
+SERVER:tzPB1Vzi24MaIfRaOz3SzPEdJTcnn6xt2jf2PCkBKQZ4O0Ma3Y2w8-9S:1777923193
 TUNNEL:https://enjoy-clarity-voltage-sig.trycloudflare.com
