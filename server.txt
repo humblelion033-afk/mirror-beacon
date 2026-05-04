@@ -1,2 +1,2 @@
-SERVER:BdQnWWuuv5nZ-cHd_OlDA-fBfkxH7ZQH5F7kD4W8CKbr00tF_g1IVE_H:1777921691
+SERVER:QjJKfmTepVCVty3IJbeTDNMuRAePlUnJGFSR1kBKv7rxpKE2AkdHMBFx:1777921991
 TUNNEL:https://enjoy-clarity-voltage-sig.trycloudflare.com
