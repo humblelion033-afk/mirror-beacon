@@ -1,2 +1,2 @@
-SERVER:-jowEeUmu4TL6APvcmR1dqv7rLHoEBJK04Z4XyHPg3CKS5bg8aGXnvw=:1777809492
-TUNNEL:https://handy-decorative-heather-thru.trycloudflare.com
+SERVER:zJWrqu00zlUQ62LgXs6fHVmY7ShupBYFCjrC4U0vrrWIQX-fRR8Fh63a:1777920191
+TUNNEL:https://enjoy-clarity-voltage-sig.trycloudflare.com
