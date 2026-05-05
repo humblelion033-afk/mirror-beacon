@@ -1,2 +1,2 @@
-SERVER:t4G4_CI6O6vonA57IYiagpTV3eJOM80rzt0j0QRWCyqVTUWWqrYs-A==:1777966810
-TUNNEL:https://between-silent-media-editor.trycloudflare.com
+SERVER:7QaXQXzjoGFKzU_bjHQKNRWSur10NVbzg41m2i8jFpsHMv9hjXJyoQ==:1777969189
+TUNNEL:https://mirror.nakabirajack.ddns.net
