@@ -1,2 +1,2 @@
-SERVER:fDr2gn7farymoBO8ZcxaFi4pmrAK3G6d8aWmcNjBio2uKrnqFCmr-A==:1777969190
+SERVER:0RIC25Jj7rawjjF_b5fgO1-VdDMQWe8BfiE8NdrOv9INEGfg5AlRMwg=:1777971152
 TUNNEL:https://mirror.nakabirajack.ddns.net
